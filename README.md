@@ -62,13 +62,11 @@ module.exports = WhoAmI;
 
 
 <p align="center">
+  <a href="rdev.gutierrez@gmail.com"><img alt="Gmail" title="Rodrigo Gutiérrez Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/rodrigo-g-522b33202"><img alt="Linkedin" title="Rodrigo Gutiérrez Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Nesli22"><img alt="Github" title="Rodrigo Gutiérrez Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://instagram.com/rodrigogtza"><img alt="Instagram" title="Rodrigo Gutiérrez Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
- <p align="center">
-  <a href="rdev.gutierrez@gmail.com"><img alt="Gmail" title="Rodrigo Gutiérrez Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
 
 ------
 [Rodrigo Gutiérrez](https://github.com/Nesli22)
