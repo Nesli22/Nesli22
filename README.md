@@ -24,7 +24,7 @@ module.exports = WhoAmI;
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nesli22&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub Stats" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nesli22&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 ## 💻 Programming Languages & Technologies
 
@@ -69,5 +69,5 @@ module.exports = WhoAmI;
  </p>
 
 ------
-[Rodrigo Gutiérrez](https://github.com/Nesli22)
-Last Edited on - 02/09/2025
+[Rodrigo Gutiérrez](https://github.com/Nesli22) 
+Last Edited on - 02/09/2025 
