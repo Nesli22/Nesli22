@@ -1,10 +1,4 @@
 
-<div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmc2MnF5YnBmb255MW92OHZiOHM3a2ltMm9yZTN1Ymd4anlkbDFmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1oErlCqmxFX54gsxrB/giphy.gif" width="100" /> 
-
-# Hi!
-</div>
-
 ## Who am I?
 
  ```js
