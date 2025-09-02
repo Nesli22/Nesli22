@@ -25,7 +25,6 @@ module.exports = WhoAmI;
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nesli22&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub Stats" /> 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nesli22&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 
 ## 💻 Programming Languages & Technologies
