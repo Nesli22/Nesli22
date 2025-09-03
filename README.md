@@ -12,7 +12,8 @@ const rodrigo = {
     role: "Backend Developer",
     experience: "Software Engineer",
     currentFocus: "React & Frontend Development",
-    
+    fun_fact = "I can solve a Rubik's cube in under 2 minutes";
+
     getSpecialties() {
         return ["REST APIs", "Database Design", "Server Architecture"];
     },
@@ -61,7 +62,6 @@ const rodrigo = {
 ---
 
 ## 🎯 What defines me
-- **🧩 Problem Solver**: I can solve a Rubik's cube in under 2 minutes
 - **📚 Continuous Learning**: Always updating myself with the latest technologies
 - **🎮 Work-Life Balance**: Gaming, reading and music to keep creativity flowing
 
