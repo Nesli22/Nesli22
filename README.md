@@ -71,3 +71,6 @@ module.exports = WhoAmI;
 ------
 [Rodrigo Gutiérrez](https://github.com/Nesli22) 
 Last Edited on - 02/09/2025 
+
+<img src="https://komarev.com/ghpvc/?username=Nesli22&style=flat-square&color=blue" alt=""/>
+
