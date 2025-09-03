@@ -1,76 +1,92 @@
+# 👋 Hi there, I'm Rodrigo Gutiérrez
+**Backend Developer specialized in Node.js | Transitioning to Full Stack**
 
-## 🌟 Who am I?
+---
 
- ```js
- class WhoAmI {
-    user = 'Rodrigo Gutiérrez';
-    current_edu = "Software Engineer";
-    role = "Backend Developer";
-    currently_learning = "React";
-    fun_fact = "I can solve a Rubik's cube in under 2 minutes";
-    hobbies = ['Reading', 'Gaming', 'Music'];
+## 🚀 About Me
+Software Engineer with solid experience in backend development, specialized in creating robust and scalable APIs. Currently expanding my skills towards frontend with React to become a Full Stack Developer.
+
+```js
+const rodrigo = {
+    location: "Ciudad Obregón, Sonora, Mexico",
+    role: "Backend Developer",
+    experience: "Software Engineer",
+    currentFocus: "React & Frontend Development",
     
-    getCountry() {
-        return 'Mexico';
-    }
+    getSpecialties() {
+        return ["REST APIs", "Database Design", "Server Architecture"];
+    },
     
-    getAmbitions() {
-        return ['Become Full Stack Developer', 'Build Amazing Apps'];
+    getGoals() {
+        return ["Full Stack Development", "Scalable Applications", "Clean Code"];
     }
-}
-module.exports = WhoAmI;
-	
- ```
+};
+```
 
-## 📊 GitHub Stats
+---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nesli22&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+## 💼 Tech Stack
 
-## 💻 Programming Languages & Technologies
+### 🔥 Backend (Specialty)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Backend Development
-<p>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
-</p>
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Databases
-<p>
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%23316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%2300f.svg?logo=mysql&logoColor=white"></a>
-</p>
+### 🎨 Frontend (Learning)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Frontend (Learning)
-<p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-</p>
+### 🛠️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Tools & Others
-<p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?logo=docker&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d4.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+---
 
-## Connect with Me
+## 📈 GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nesli22&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nesli22&layout=compact&theme=dark&title_color=61DAFB&text_color=ffffff&bg_color=0d1117"/>
+</div>
 
-<p align="center">
-  <a href="rdev.gutierrez@gmail.com"><img alt="Gmail" title="Rodrigo Gutiérrez Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/rodrigo-g-522b33202"><img alt="Linkedin" title="Rodrigo Gutiérrez Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Nesli22"><img alt="Github" title="Rodrigo Gutiérrez Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://instagram.com/rodrigogtza"><img alt="Instagram" title="Rodrigo Gutiérrez Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- </p>
+---
 
-------
-[Rodrigo Gutiérrez](https://github.com/Nesli22) 
-Last Edited on - 02/09/2025 
+## 🎯 What defines me
+- **🧩 Problem Solver**: I can solve a Rubik's cube in under 2 minutes
+- **📚 Continuous Learning**: Always updating myself with the latest technologies
+- **🎮 Work-Life Balance**: Gaming, reading and music to keep creativity flowing
 
-<img src="https://komarev.com/ghpvc/?username=Nesli22&style=flat-square&color=blue" alt=""/>
+---
 
+## 📫 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-g-522b33202)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdev.gutierrez@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nesli22)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rodrigogtza)
+
+</div>
+
+---
+
+<div align="center">
+  
+**"Building the future one line of code at a time"**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nesli22&color=61DAFB&style=flat)
+
+</div>
+
+---
+*Last updated: September 2025*
