@@ -8,7 +8,7 @@ Software Engineer with solid experience in backend development, specialized in c
 
 ```js
 const rodrigo = {
-    location: "Ciudad Obregón, Sonora, Mexico",
+    location: "Sonora, Mexico",
     role: "Backend Developer",
     experience: "Software Engineer",
     currentFocus: "React & Frontend Development",
